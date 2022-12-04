@@ -4,7 +4,7 @@ Projeto da Unidade Curricular [Interação Pessoa-Computador](https://sigarra.up
 
 
 # Fases do projecto
-- [Fase 1: User and Task Analysis](Phase1/README.md)
+- [Fase 1: User and Task Analysis](Phase1/)
 - Fase 2:
 - Fase 3:
 
