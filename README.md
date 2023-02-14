@@ -6,11 +6,9 @@ Projeto da Unidade Curricular [Interação Pessoa-Computador](https://sigarra.up
 # Fases do projecto
 - [Fase 1: User and Task Analysis](Phase1/)
 - [Fase 2: First Prototype and Heuristic Evaluation](Phase2/)
-- Fase 3:
+- [Fase 3: Second Prototype and User Evaluation](Phase3/)
 
 # Informação
-
-**Nota Final:**
 
 **Projeto desenvolvido por:** Inês silva([inessilv](https://github.com/inessilv)), Linda Rodrigues([lindirod](https://github.com/lindirod)), Mónica Araújo([monica-a-araujo](https://github.com/monica-a-araujo))
 
