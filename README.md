@@ -10,6 +10,8 @@ Projeto da Unidade Curricular [Interação Pessoa-Computador](https://sigarra.up
 
 # Informação
 
+**Link do projeto:** [Figma](https://www.figma.com/proto/auIBWUeSyZ12AIWEnoYuJB/Group-prototype?page-id=0%3A1&node-id=359%3A75&viewport=-341%2C1654%2C0.07&scaling=contain&starting-point-node-id=359%3A75&show-proto-sidebar=1)
+
 **Projeto desenvolvido por:** Inês silva([inessilv](https://github.com/inessilv)), Linda Rodrigues([lindirod](https://github.com/lindirod)), Mónica Araújo([monica-a-araujo](https://github.com/monica-a-araujo))
 
 **Ano:** 2022/2023 - 3º ano, 1º semestre
